@@ -1,6 +1,6 @@
 # promotions-website.github.io-
 websites project
 
-reminders
+## reminders
 
-to do list
+### to do list
