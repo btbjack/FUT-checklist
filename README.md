@@ -2,16 +2,17 @@
 websites project
 
 # reminders
--None yet
+- None yet
 
 Creating a Check List
-- [] this is a example checkbox
+- [ ] this is a example checkbox
 - [x] this is a checked box
-- <del> [x] this is a crossed out item </del>
+- <del> [x] this is a crossed out item that looks odd </del>
+- [x] <del> this is a crossed out item that looks better
 ---
 # to do list
--Create a To Do List
--Add more items from the paper
+- [x] <del> Create a To Do List </del>
+- [ ] Add more items from the paper
 
 ---
 
