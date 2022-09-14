@@ -13,7 +13,10 @@ Creating a Check List
 # to do list
 - [x] <del> Create a To Do List </del>
 - [ ] Add more items from the paper
-
+- [ ] look for the background wallpaper or design
+- [ ] pick the fonts and text boxes for the website 
+- [ ] design the jersey for the background
+- [ ] get images of the FUT cards
 ---
 
 
