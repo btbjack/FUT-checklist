@@ -13,10 +13,17 @@ Creating a Check List
 # to do list
 - [x] <del> Create a To Do List </del>
 - [ ] Add more items from the paper
+- [ ] make new webpage for the website
 - [ ] look for the background wallpaper or design
 - [ ] pick the fonts and text boxes for the website 
 - [ ] design the jersey for the background
 - [ ] get images of the FUT cards
+- [ ] design sound effects
+- [ ] design transitions when switching between cards
+- [ ] get the effects from when you check off a caard that you have
+- [ ] get the image of coins and points from fifa to use when showing the prices
+- [ ] get prices from both xbox and playstation
+- [ ] 
 ---
 
 
